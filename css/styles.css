@@ -95,7 +95,7 @@ select {
 }
 
 .down{
-    padding: 2.8125rem 3.125rem 0;
+    padding: 2.8125rem 1rem 0;
     text-align: center;
 }
 
@@ -123,7 +123,7 @@ p{
 .detail{
     display: flex;
     align-items: center;
-    margin: 1rem 2rem;
+    margin: 1rem 1rem;
 }
 
 .detail img{
