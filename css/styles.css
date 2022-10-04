@@ -112,6 +112,17 @@ p{
     padding: 0 2rem;
 }
 
+@media (max-width: 375px){
+  .down{
+    padding: 2rem 1rem 0;
+    text-align: center;
+}
+
+  p{
+    padding: 0 1rem;
+}
+}
+
 .plan{
     display: flex;
     justify-content: space-between;
